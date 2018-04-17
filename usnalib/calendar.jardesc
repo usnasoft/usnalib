@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="C:/Documents and Settings/a.flaccomio/Desktop/USNACalendar.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/usnalib/calendar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=usnalib/&lt;examples{UsnaCalendar.java[UsnaCalendar" manifestLocation="/CommentiInspector/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=usnalib/&lt;examples"/>
+<javaElement handleIdentifier="=usnalib/&lt;usna.swing.gadget"/>
+</selectedElements>
+</jardesc>
