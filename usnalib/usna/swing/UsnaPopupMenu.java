@@ -49,7 +49,7 @@ public class UsnaPopupMenu extends JPopupMenu {
 				if (item instanceof JMenuItem) {
 					add((JMenuItem) item);
 				} else if (item instanceof Action) {
-					final Action a = (Action) item; a.putValue("xcxcxc", 2);
+//					final Action a = (Action) item; a.putValue("xcxcxc", 2);
 					add((Action) item);
 				} else {
 					final int ind = i;
